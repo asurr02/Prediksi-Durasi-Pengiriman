@@ -22,8 +22,8 @@ DataCo Supply Chain menggunakan **Multiple Linear Regression**.
 
 | File | Keterangan |
 |------|------------|
-| `main.py` | Skrip lengkap (jalankan dari terminal) |
-| `Notebook.ipynb` | Versi notebook dengan isi yang sama |
+| `main (1).py` | Skrip lengkap (jalankan dari terminal) |
+| `Notebook (2).ipynb` | Versi notebook dengan isi yang sama |
 | `requirements.txt` | Daftar library |
 | `output/` | Tabel dan gambar hasil (dibuat otomatis) |
 
