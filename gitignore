@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.env
+.venv/
+venv/
+.DS_Store
+
+# Dataset besar & hasil run (opsional: hapus baris ini kalau mau ikut di-upload)
+DataCoSupplyChainDataset.csv
+output/
